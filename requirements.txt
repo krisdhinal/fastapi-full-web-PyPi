@@ -1,0 +1,3 @@
+fastapi # framework api
+uvicorn # web server untuk menjalankan fastapi
+fastapi_chameleon # html template leanguage
